@@ -8,12 +8,12 @@
 
 # 2. Introdução e Visão Geral 
  
-- Este projento primariamente tem como objetivo criar uma plataforma para que usuarios possam ler organizar de forma simples livros em formato digital de forma gratuida.
+- Este projeto primariamente tem como objetivo criar uma plataforma para que usuários possam ler e organizar de forma simples livros em formato digital de forma gratuita.
 
 # 3. Objetivos do Projeto
 - Desenvolver um software que permita gerir uma biblioteca de arquivos digitais. 
-- Facilitar a leitura desses arquvios para tornala mais confortavel em telas de tamnhos diferentes.
-- oferecer ferramentas de busca, marcações e notas que funcionam para os arquivos.  
+- Facilitar a leitura desses arquivos para torna-la mais confortavel em telas de tamanhos diferentes.
+- Oferecer ferramentas de busca, marcações e notas que funcionam para os arquivos.  
 - manter o sistema simples de ser ultilizado.
  
 # 4. Escopo do Projeto
@@ -21,12 +21,12 @@
 ## Entregáveis:
 - Software da biblioteca digital
 - Documentação técnica do software.
-- Manual do usuário para instalação e utilização.
+  
 
  
 ## Requisitos:
-- Funcionais: capacidade de salvar arquivos pdf, sistema de busca de texto e arquivos, capcidade de crição de notas, marcação de texto, gerenciamento completo da biblioteca.  
-- Não Funcionais: Desempenho eficiente, usabilidade amigáve, segurança básica, desgin remetente a bibliotecas e livros fisicos. 
+- Funcionais: capacidade de salvar arquivos pdf, sistema de busca de texto e arquivos, capacidade de criação de notas, marcação de texto, gerenciamento completo da biblioteca.  
+- Não Funcionais: Desempenho eficiente, usabilidade amigável, segurança básica, desigin remetente a bibliotecas e livros físicos. 
  
 ## Exclusões:
 - Integração com sistemas de terceiros.
@@ -37,7 +37,7 @@
 - Pessoas: Desenvolvedores (1), pesquisador (1), orientador (1). 
  
 ## Tecnologia: 
-1. vs studio
+1. Virtual studio
 2. Java 17
 3. Banco de Dados MySQL
  
