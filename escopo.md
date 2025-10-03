@@ -41,28 +41,3 @@
 2. Java 17
 3. Banco de Dados MySQL
  
-# 6. Cronograma 
-Fase 1: Pesquisa e Planejamento: (2 meses)
-Fase 2: Desenvolvimento dos Módulos Principais: (2 meses)
-Fase 3: Testes e Documentação: (1 mês)
-Fase 4: Entrega e Apresentação do TCC: (1 semana)
-
-# 7. Premissas 
-- Disponibilidade da equipe de desenvolvimento e o suporte do orientador.
-- Acesso a ferramentas de desenvolvimento e aprendizado.
-
-# 8. Restrições 
-- Prazo final para a conclusão do TCC.
-- Ferramentas precisam estar disponíveis no IFRS.
-
-# 9. Riscos e Planos de Contingência 
- 
-- Risco: Dificuldades técnicas no desenvolvimento do software.
-- Mitigação: Buscar ajuda do orientador e pesquisar soluções online.
-
-- Risco: Atrasos no cronograma.
-- Mitigação: Priorizar as tarefas essenciais e, se necessário, reduzir o escopo de funcionalidades menos críticas.
-
-# 10. Critérios de Aceitação 
- 
-- O software atende a todos os requisitos funcionais e não funcionais definidos.
