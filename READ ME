@@ -1,5 +1,34 @@
-o sistema deve permitir o usuario fazer upload de aqruvios pdf de forma agradevel e oferecer funcionalidades que reppliquem ferramentas para leitura como guias marca paginas anoatações entre outros.
+# Projeto de biblioteca online. 
 
-requisitos funcionais.
-1 
+# 1. Identificação do Projeto 
+- Nome do Projeto: Desenvolvimento de uma biblioteca online.
+- Autor: Rael Vilela Drews
+- Orientador: Clarissa Xavier
+- Data Aprovação: 
 
+# 2. Introdução e Visão Geral 
+ 
+- Este projeto primariamente tem como objetivo criar uma plataforma para que usuários possam ler e organizar de forma simples livros em formato digital de forma gratuita.
+
+# 3. Objetivos do Projeto
+- Desenvolver um software que permita gerir uma biblioteca de arquivos digitais. 
+- Facilitar a leitura desses arquivos para torna-la mais confortavel em telas de tamanhos diferentes.
+- Oferecer ferramentas de busca, marcações e notas que funcionam para os arquivos.  
+- manter o sistema simples de ser ultilizado.
+ 
+# 4. Escopo do Projeto
+
+## Entregáveis:
+- Software da biblioteca digital
+- Documentação técnica do software.
+  
+
+ 
+## Requisitos:
+- Funcionais: capacidade de salvar arquivos pdf, sistema de busca de texto e arquivos, capacidade de criação de notas, marcação de texto, gerenciamento completo da biblioteca.  
+- Não Funcionais: Desempenho eficiente, usabilidade amigável, segurança básica, desigin remetente a bibliotecas e livros físicos. 
+ 
+## Exclusões:
+- Integração com sistemas de terceiros.
+- Serviços de suporte técnico após a entrega. 
+   
